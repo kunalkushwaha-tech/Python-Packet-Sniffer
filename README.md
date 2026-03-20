@@ -2,7 +2,7 @@
 
 A network security tool built with **Python** and **Scapy** to capture and analyze live traffic on Kali Linux. It features integrated **WHOIS lookups** to perform real-time OSINT on captured IP addresses.
 
-## ✨ Features
+##  Features
 - **Live Sniffing:** Captures IP packets, TCP/UDP protocols, and raw payloads.
 - **IP Intelligence:** Identifies the organization behind any captured IP (e.g., Fastly, Google).
 - **Clean Output:** Formatted terminal display for easy network monitoring.
