@@ -12,7 +12,6 @@ A network security tool built with **Python** and **Scapy** to capture and analy
 ### 1. Packet Capture in Action
 Captured packets showing source/destination IPs and protocols:
 ![Sniffer Output](Python-Packet-Sniffer.py.pdf) 
-*(Note: Agar tumne screenshot ko image format mein dala hai, toh uske naam se replace kar dena)*
 
 ### 2. Network Analysis (WHOIS)
 Identifying the owner of the captured traffic:
